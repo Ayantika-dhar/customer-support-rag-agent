@@ -1,0 +1,6 @@
+To integrate our API with your application:
+
+1. Create an API key in the dashboard.
+2. Use the base URL https://api.example.com/v1/
+3. Authenticate using the header: Authorization: Bearer <your_key>.
+4. Check our API documentation for endpoints and usage examples.

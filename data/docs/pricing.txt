@@ -1,0 +1,10 @@
+Our SaaS platform offers three plans:
+
+Basic Plan - $19/month:
+Includes API access and standard features.
+
+Pro Plan - $49/month:
+Includes advanced analytics, priority support, and extended rate limits.
+
+Enterprise - Custom Pricing:
+Includes dedicated infrastructure, 24/7 support, and custom integrations.

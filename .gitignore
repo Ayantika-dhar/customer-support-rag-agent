@@ -1,0 +1,16 @@
+# ignore virtual environment
+.neoenv/
+.venv/
+env/
+venv/
+
+# ignore python cache files
+__pycache__/
+*.pyc
+
+# ignore local streamlit secrets
+.streamlit/secrets.toml
+
+# ignore OS metadata
+Thumbs.db
+.DS_Store

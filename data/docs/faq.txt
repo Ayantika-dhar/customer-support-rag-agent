@@ -1,0 +1,8 @@
+How do I reset my account password?
+To reset your password, go to the login page and click "Forgot Password". You will receive an email with a reset link.
+
+How do I update my billing information?
+Navigate to Settings > Billing. You can update your card details and download invoices.
+
+How do I delete my account?
+Go to Settings > Security > Delete Account. After confirmation, your account will be permanently deleted.
